@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}") = "MechanicOnDemand", "MechanicOnDemand\MechanicOnDemand.iceproj", "{D70A8076-C394-4A26-AD79-7CB20F1188EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70A8076-C394-4A26-AD79-7CB20F1188EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70A8076-C394-4A26-AD79-7CB20F1188EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70A8076-C394-4A26-AD79-7CB20F1188EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70A8076-C394-4A26-AD79-7CB20F1188EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
